@@ -12,5 +12,21 @@ Administrator
 12345678910.
 
 
+1º Passo
+ 
+ Abra o terminal e digite
+ cd BruteFTPScript
+ 
+ 2º Passo
+ digite
+ ./install.sh
+ 
+ Obs: Esse processo pode demorar um pouco
+ 
+ 3º Pasoo
+ 
+ digite 
+ pyhton BruteFTP.py <ip_do_servidor> <lista.txt>
+
 
 
